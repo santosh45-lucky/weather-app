@@ -52,7 +52,7 @@ input, button {
     color: white;
     background-color: cadetblue;
     margin-top: 30px;
-    height: 80%;
+    height: 100%;
     width: 60%;
     text-align: center;
     animation: appear 1s 1;
@@ -106,7 +106,7 @@ input, button {
 /* Footer */
 #footer {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    	position: absolute;
+    	position: relative;
 	bottom:0;
 	width:100%;
 }
