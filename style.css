@@ -52,8 +52,8 @@ input, button {
     color: white;
     background-color: cadetblue;
     margin-top: 30px;
-    height: 400px;
-    width: 350px;
+    height: 50%;
+    width: 40%;
     text-align: center;
     animation: appear 1s 1;
 }
