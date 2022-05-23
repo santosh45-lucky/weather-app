@@ -31,17 +31,17 @@ input, button {
 
 
 #searchbox input {
-    height: 25px;
+    height: 35px;
     color: #373737;
     width: 200px;
     padding-left: 5px;
 }
 
 #searchbox button {
-    height: 31px;
+    height: 41px;
     background-color: #111;
     border: 3px solid #43d8c9;
-    width: 80px;
+    width: 100px;
 }
 
 #topbar #searchicon {
@@ -52,8 +52,8 @@ input, button {
     color: white;
     background-color: cadetblue;
     margin-top: 30px;
-    height: 750px;
-    width: 70%;
+    height: 500px;
+    width: 100%;
     text-align: center;
     animation: appear 1s 1;
 }
@@ -67,7 +67,7 @@ input, button {
 #mainbody img {
     float: right;
     padding-right: 20px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #temp {
@@ -78,20 +78,21 @@ input, button {
 }
 #cond {
     float: left;
-    font-size: 20px;
+    font-size: 35px;
     padding-left: 15px;
-    padding-top: 8px;
+    
 }
 #wind {
     text-align: right;
 }
 #label
 {
-   font-size: 25px;
+   font-size: 40px;
    font-weight: 500;
    padding: 5px;
    text-align: center;
    padding-top: 20px;
+   position: relative;
 }
 
 .brand h1 {
@@ -106,9 +107,10 @@ input, button {
 /* Footer */
 #footer {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    	position: absolute;
-	bottom:0;
-	width:100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
 }
 #footer .footer {
 	min-height: 200px;
