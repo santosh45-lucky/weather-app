@@ -106,7 +106,7 @@ input, button {
 /* Footer */
 #footer {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-    	position: relative;
+    	position: absolute;
 	bottom:0;
 	width:100%;
 }
