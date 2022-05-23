@@ -111,6 +111,8 @@ input, button {
     align-items: center;
     justify-content: center;
     position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 #footer .footer {
 	min-height: 200px;
