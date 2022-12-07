@@ -137,10 +137,11 @@ input, button {
 #footer .social-item {
     position: relative;
     left: 35%;
-	height: 50px;
-	width: 50px;
-	margin: 0 5px;
-   align-items: center; 
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
+    align-items: center; 
+    padding-left: 3rem;
 }
 #footer .social-item img {
 	filter: grayscale(1);
